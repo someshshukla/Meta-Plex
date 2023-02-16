@@ -1,2 +1,3 @@
 # Meta-Plex
-Meta-Plex project for eyTechathon
+NFT Museum in VIRTUAL REALITY using Unreal engine 
+Meta-Plex project for Ernst and Young
